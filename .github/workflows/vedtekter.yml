@@ -1,0 +1,67 @@
+name: Vedtekter
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "styrende dokumenter/vedtekter/kilde/**"
+  pull_request:
+    paths:
+      - "styrende dokumenter/vedtekter/gjeldende/**"
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install pikepdf==10.17.0
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends latexmk texlive-latex-extra texlive-lang-european cm-super
+
+      - name: Build statutes
+        id: build
+        run: python .github/scripts/vedtekter.py build
+
+      - name: Check metadata
+        run: python .github/scripts/vedtekter.py check
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: automatisk/vedtekter
+          delete-branch: true
+          commit-message: render statutes
+          title: Oppdater vedtekter
+          body: |
+            ${{ steps.build.outputs.summary }}
+
+            Sjekk at PDF-ene ser riktige ut før du merger.
+
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pikepdf==10.17.0
+
+      - name: Check metadata
+        run: python .github/scripts/vedtekter.py check
