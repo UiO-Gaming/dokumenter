@@ -1,0 +1,35 @@
+name: Publiser vedtekter
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "styrende dokumenter/vedtekter/gjeldende/**"
+  workflow_dispatch:
+
+# Never run two deploys of this repo at the same time
+concurrency: deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Set up SSH
+        run: |
+          install -m 600 -D /dev/null ~/.ssh/id_ed25519
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
+          ssh-keyscan -H ${{ vars.SSH_HOST }} > ~/.ssh/known_hosts
+
+      # The deploy key can only run /usr/local/bin/uiogaming-deploy on the server. The vedtekter
+      # target copies the current statutes to /var/www/uiogaming.no/vedtekter as vedtekter.pdf and
+      # statutes.pdf (see drift/driftsdokumentasjon.md).
+      - name: Deploy
+        run: ssh ${{ secrets.SSH_USER }}@${{ vars.SSH_HOST }} vedtekter
+
+      - name: Clean up
+        if: always()
+        run: rm -rf ~/.ssh
