@@ -20,7 +20,7 @@ Det finnes også en oversikt over [Personer](#personer)
 
 ## Høst 2020
 
-Valgt på foreningens stiftelsesmøte 11. september 2020.
+**Periode:** 11.09.2020 – 19.02.2021 (valgt på [stiftelsesmøtet 11.09.2020](../Stiftelsesdokument.pdf))
 
 | Verv               | Navn                                                   |
 | ------------------ | ------------------------------------------------------ |
@@ -33,6 +33,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | Styremedlem        | Magnus Langsæter                                       |
 
 ## Vår 2021
+
+**Periode:** 19.02.2021 – 29.09.2021 (valgt på [generalforsamlingen 19.02.2021](../../generalforsamlinger/01%20-%202021%20v%C3%A5r/))
 
 | Verv                      | Navn                                                   | Merknad                                           |
 | ------------------------- | ------------------------------------------------------ | ------------------------------------------------- |
@@ -48,6 +50,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | 3. vara                   | Petter Stunner Sæterøy                                 |                                                   |
 
 ## Høst 2021
+
+**Periode:** 29.09.2021 – 23.02.2022 (valgt på [generalforsamlingen 29.09.2021](../../generalforsamlinger/02%20-%202021%20h%C3%B8st/))
 
 | Verv                      | Navn                              |
 | ------------------------- | --------------------------------- |
@@ -66,6 +70,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 
 ## Vår 2022
 
+**Periode:** 23.02.2022 – 21.09.2022 (valgt på [generalforsamlingen 23.02.2022](../../generalforsamlinger/03%20-%202022%20v%C3%A5r/))
+
 | Verv                      | Navn                       |
 | ------------------------- | -------------------------- |
 | Leder                     | Sivert Arntzen             |
@@ -83,6 +89,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 
 ## Høst 2022
 
+**Periode:** 21.09.2022 – 24.02.2023 (valgt på [generalforsamlingen 21.09.2022](../../generalforsamlinger/04%20-%202022%20h%C3%B8st/))
+
 | Verv                      | Navn                       |
 | ------------------------- | -------------------------- |
 | Leder / Rom               | Mathias Monrad Morsund     |
@@ -98,6 +106,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | Vara                      | Tiril Elisa Søvik Velle    |
 
 ## Vår 2023
+
+**Periode:** 24.02.2023 – 12.09.2023 (valgt på [generalforsamlingen 24.02.2023](../../generalforsamlinger/05%20-%202023%20v%C3%A5r/))
 
 | Verv                      | Navn                         |
 | ------------------------- | ---------------------------- |
@@ -116,6 +126,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 
 ## Høst 2023
 
+**Periode:** 12.09.2023 – 12.02.2024 (valgt på [generalforsamlingen 12.09.2023](../../generalforsamlinger/06%20-%202023%20h%C3%B8st/))
+
 | Verv        | Navn                         |
 | ----------- | ---------------------------- |
 | Leder       | Mathias Monrad Morsund       |
@@ -132,6 +144,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | Vara        | Kaare Michael Sidselrud      |
 
 ## Vår 2024
+
+**Periode:** 12.02.2024 – 15.10.2024 (valgt på [generalforsamlingen 12.02.2024](../../generalforsamlinger/07%20-%202024%20v%C3%A5r/))
 
 | Verv        | Navn                         |
 | ----------- | ---------------------------- |
@@ -150,6 +164,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 
 ## Høst 2024
 
+**Periode:** 15.10.2024 – 06.06.2025 (valgt på [generalforsamlingen 15.10.2024](../../generalforsamlinger/08%20-%202024%20h%C3%B8st/))
+
 | Verv        | Navn                     | Merknad                    |
 | ----------- | ------------------------ | -------------------------- |
 | Leder       | Mathias Monrad Morsund   |                            |
@@ -167,6 +183,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 
 ## Vår 2025
 
+**Periode:** 06.06.2025 – 03.12.2025 (valgt på [generalforsamlingen 06.06.2025](../../generalforsamlinger/10%20-%202025%20v%C3%A5r/))
+
 | Verv        | Navn                     | Merknad                     |
 | ----------- | ------------------------ | --------------------------- |
 | Leder       | Georgy Fomin             |                             |
@@ -181,6 +199,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | Vara        | Yuyan Shen               | Etterfylt f.o.m. ??.??.2025 |
 
 ## Høst 2025
+
+**Periode:** 03.12.2025 – 19.05.2026 (valgt på [generalforsamlingen 03.12.2025](../../generalforsamlinger/11%20-%202025%20h%C3%B8st/))
 
 | Verv        | Navn                          |
 | ----------- | ----------------------------- |
@@ -197,6 +217,8 @@ Valgt på foreningens stiftelsesmøte 11. september 2020.
 | Vara        | Daniel Åsbjørnsson            |
 
 ## Vår 2026
+
+**Periode:** 19.05.2026 – (valgt på [generalforsamlingen 19.05.2026](../../generalforsamlinger/12%20-%202026%20v%C3%A5r/))
 
 | Verv        | Navn                          |
 | ----------- | ----------------------------- |
