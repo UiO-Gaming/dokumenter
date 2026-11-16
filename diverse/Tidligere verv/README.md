@@ -15,7 +15,6 @@ Oversikt over tidligere styrer i UiO Gaming.
 - [Høst 2025](#høst-2025)
 - [Vår 2026](#vår-2026)
 
-
 Det finnes også en oversikt over [Personer](#personer)
 
 ## Høst 2020
@@ -202,36 +201,38 @@ Det finnes også en oversikt over [Personer](#personer)
 
 **Periode:** 03.12.2025 – 19.05.2026 (valgt på [generalforsamlingen 03.12.2025](../../generalforsamlinger/11%20-%202025%20h%C3%B8st/))
 
-| Verv        | Navn                          |
-| ----------- | ----------------------------- |
-| Leder       | Georgy Fomin                  |
-| Nestleder   | Magnar Jensløkken Korsmo      |
-| Styremedlem | Bastian Dukefoss Berbom       |
-| Styremedlem | Emma Karoline Kolpus Fontanin |
-| Styremedlem | Selma Jabnouni                |
-| Styremedlem | Thisan Krishnakumar           |
-| Styremedlem | Elise Rongen                  |
-| Vara        | Sondre Fagerhus               |
-| Vara        | Jonathan O'Farrell            |
-| Vara        | Yuyan Shen                    |
-| Vara        | Daniel Åsbjørnsson            |
+| Verv        | Navn                           |
+| ----------- | ------------------------------ |
+| Leder       | Georgy Fomin                   |
+| Nestleder   | Magnar Jensløkken Korsmo       |
+| Styremedlem | Bastian Dukefoss Berbom        |
+| Styremedlem | Emma Karoline Kolpus Fontanini |
+| Styremedlem | Selma Jabnouni                 |
+| Styremedlem | Thisan Krishnakumar            |
+| Styremedlem | Elise Rongen                   |
+| Vara        | Sondre Fagerhus                |
+| Vara        | Jonathan O'Farrell             |
+| Vara        | Yuyan Shen                     |
+| Vara        | Daniel Åsbjørnsson             |
 
 ## Vår 2026
 
-**Periode:** 19.05.2026 – (valgt på [generalforsamlingen 19.05.2026](../../generalforsamlinger/12%20-%202026%20v%C3%A5r/))
+**Periode:** 19.05.2026 – d.d. (valgt på [generalforsamlingen 19.05.2026](../../generalforsamlinger/12%20-%202026%20v%C3%A5r/))
 
-| Verv        | Navn                          |
-| ----------- | ----------------------------- |
-| Leder       | Magnar Jensløkken Korsmo      |
-| Nestleder   | Bastian Dukefoss Berbom       |
-| Styremedlem | Sondre Fagerhus               |
-| Styremedlem | Jonathan O'Farrell            |
-| Styremedlem | Elise Rongen                  |
-| Styremedlem | Yuyan Shen                    |
-| Vara        | Emma Karoline Kolpus Fontanin |
-| Vara        | Tom Gåsemyr-Mørk              |
-| Vara        | Selma Jabnouni                |
-| Vara        | Duc Anh Stenseth              |
+| Verv                  | Navn                           |
+| --------------------- | ------------------------------ |
+| Leder                 | Magnar Jensløkken Korsmo       |
+| Nestleder             | Bastian Dukefoss Berbom        |
+| Styremedlem / Økonomi | Elise Rongen                   |
+| Styremedlem           | Sondre Fagerhus                |
+| Styremedlem           | Mathias Ljådal                 |
+| Styremedlem           | Jonathan O'Farrell             |
+| Styremedlem           | Yuyan Shen                     |
+| Vara                  | Emma Karoline Kolpus Fontanini |
+| Vara                  | Tom Gåsemyr-Mørk               |
+| Vara                  | Selma Jabnouni                 |
+| Vara                  | Duc Anh Stenseth               |
+| Vara                  | Niels Synnes                   |
 
 ## Personer
 
@@ -253,7 +254,7 @@ Alle som har sittet i styret, sortert etter etternavn. H = høst, V = vår.
 | Ingrid Yrsa Bie Mecklenburg Steen Sverdrup Engelschiøn | 1999 | [H20](#høst-2020), [V21](#vår-2021)                                                                                                                |
 | Sondre Fagerhus                                        | 1998 | [H25](#høst-2025), [V26](#vår-2026)                                                                                                                |
 | Georgy Fomin                                           | 2002 | [V23](#vår-2023), [H23](#høst-2023), [H24](#høst-2024), [V25](#vår-2025), [H25](#høst-2025)                                                        |
-| Emma Karoline Kolpus Fontanin                          |      | [H25](#høst-2025), [V26](#vår-2026)                                                                                                                |
+| Emma Karoline Kolpus Fontanini                         | 2003 | [H25](#høst-2025), [V26](#vår-2026)                                                                                                                |
 | Johannes Deon Frølich                                  | 2001 | [V24](#vår-2024), [H24](#høst-2024), [V25](#vår-2025)                                                                                              |
 | Leander West Furumo                                    | 2000 | [V21](#vår-2021), [H21](#høst-2021), [V22](#vår-2022)                                                                                              |
 | Tom Gåsemyr-Mørk                                       | 2001 | [V26](#vår-2026)                                                                                                                                   |
@@ -265,6 +266,7 @@ Alle som har sittet i styret, sortert etter etternavn. H = høst, V = vår.
 | Thisan Krishnakumar                                    | 2002 | [V24](#vår-2024), [H24](#høst-2024), [V25](#vår-2025), [H25](#høst-2025)                                                                           |
 | Aleksander Rosseland Kvåle                             | 1996 | [V22](#vår-2022)                                                                                                                                   |
 | Magnus Langsæter                                       | 2001 | [H20](#høst-2020), [V21](#vår-2021), [H21](#høst-2021)                                                                                             |
+| Mathias Ljådal                                         | 2004 | [V26](#vår-2026)                                                                                                                                   |
 | Sander Segbø Løvaas                                    | 1997 | [V23](#vår-2023)                                                                                                                                   |
 | Maiken Ørbog Meland                                    | 1996 | [V21](#vår-2021)                                                                                                                                   |
 | Samson Sæbø Midteng                                    | 2002 | [V23](#vår-2023), [H23](#høst-2023), [V24](#vår-2024)                                                                                              |
@@ -283,6 +285,7 @@ Alle som har sittet i styret, sortert etter etternavn. H = høst, V = vår.
 | Kaare Michael Sidselrud                                | 2002 | [V23](#vår-2023), [H23](#høst-2023)                                                                                                                |
 | Johannes Løseth Stenersen                              | 2000 | [H22](#høst-2022), [V23](#vår-2023)                                                                                                                |
 | Duc Anh Stenseth                                       | 2004 | [V26](#vår-2026)                                                                                                                                   |
+| Niels Synnes                                           | 2006 | [V26](#vår-2026)                                                                                                                                   |
 | Petter Stunner Sæterøy                                 | 2000 | [V21](#vår-2021), [H21](#høst-2021), [V22](#vår-2022), [H22](#høst-2022), [V23](#vår-2023)                                                         |
 | Tiril Elisa Søvik Velle                                | 2000 | [H21](#høst-2021), [V22](#vår-2022), [H22](#høst-2022), [V23](#vår-2023)                                                                           |
 | Henry Zhanhao Zhang                                    | 2000 | [V21](#vår-2021)                                                                                                                                   |
