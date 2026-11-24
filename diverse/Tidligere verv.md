@@ -15,7 +15,9 @@ Oversikt over tidligere styrer i UiO Gaming.
 - [Høst 2025](#høst-2025)
 - [Vår 2026](#vår-2026)
 
-Det finnes også en oversikt over [Personer](#personer)
+Det finnes også en oversikt over [personer](#personer).
+
+Merk at rollene tildelt her er ikke så konsekvente da det har vært manglende informasjon rundt dette i løpet av de senere årene.
 
 ## Høst 2020
 
@@ -127,112 +129,112 @@ Det finnes også en oversikt over [Personer](#personer)
 
 **Periode:** 12.09.2023 – 12.02.2024 (valgt på [generalforsamlingen 12.09.2023](../generalforsamlinger/06%20-%202023%20h%C3%B8st/))
 
-| Verv        | Navn                         |
-| ----------- | ---------------------------- |
-| Leder       | Mathias Monrad Morsund       |
-| Nestleder   | Thea Sandberg Bråten         |
-| Styremedlem | Georgy Fomin                 |
-| Styremedlem | Bendik Haave                 |
-| Styremedlem | Samson Sæbø Midteng          |
-| Styremedlem | Hanna Mathea Rotihaug Pisani |
-| Styremedlem | Andrine Elise Salangli       |
-| Vara        | Elada Brickute               |
-| Vara        | Kristoffer Drennan Olsen     |
-| Vara        | David Johnny Pettersen       |
-| Vara        | Justas Saunorius             |
-| Vara        | Kaare Michael Sidselrud      |
+| Verv                         | Navn                         |
+| ---------------------------- | ---------------------------- |
+| Leder                        | Mathias Monrad Morsund       |
+| Nestleder / Arrangement      | Thea Sandberg Bråten         |
+| Styremedlem / Brettspill     | Georgy Fomin                 |
+| Styremedlem / Intern         | Andrine Elise Salangli       |
+| Styremedlem / Rom            | Bendik Haave                 |
+| Styremedlem / SoMe & E-sport | Hanna Mathea Rotihaug Pisani |
+| Styremedlem / Økonomi        | Samson Sæbø Midteng          |
+| Vara / Teknisk               | Kristoffer Drennan Olsen     |
+| Vara                         | Elada Brickute               |
+| Vara                         | David Johnny Pettersen       |
+| Vara                         | Justas Saunorius             |
+| Vara                         | Kaare Michael Sidselrud      |
 
 ## Vår 2024
 
 **Periode:** 12.02.2024 – 15.10.2024 (valgt på [generalforsamlingen 12.02.2024](../generalforsamlinger/07%20-%202024%20v%C3%A5r/))
 
-| Verv        | Navn                         |
-| ----------- | ---------------------------- |
-| Leder       | Mathias Monrad Morsund       |
-| Nestleder   | Thea Sandberg Bråten         |
-| Styremedlem | Elada Brickute               |
-| Styremedlem | Johannes Deon Frølich        |
-| Styremedlem | Samson Sæbø Midteng          |
-| Styremedlem | Hanna Mathea Rotihaug Pisani |
-| Styremedlem | Ember Ruth Diane Seidel      |
-| Vara        | Thisan Krishnakumar          |
-| Vara        | Karoline Holmøy Nyhammer     |
-| Vara        | Kristoffer Drennan Olsen     |
-| Vara        | Justas Saunorius             |
-| Vara        | Souhail Ziani                |
+| Verv                         | Navn                         |
+| ---------------------------- | ---------------------------- |
+| Leder                        | Mathias Monrad Morsund       |
+| Nestleder / Arrangement      | Thea Sandberg Bråten         |
+| Styremedlem / Brettspill     | Elada Brickute               |
+| Styremedlem / Intern         | Johannes Deon Frølich        |
+| Styremedlem / Rom            | Ember Ruth Diane Seidel      |
+| Styremedlem / SoMe & E-sport | Hanna Mathea Rotihaug Pisani |
+| Styremedlem / Økonomi        | Samson Sæbø Midteng          |
+| Vara / Teknisk               | Kristoffer Drennan Olsen     |
+| Vara                         | Thisan Krishnakumar          |
+| Vara                         | Karoline Holmøy Nyhammer     |
+| Vara                         | Justas Saunorius             |
+| Vara                         | Souhail Ziani                |
 
 ## Høst 2024
 
 **Periode:** 15.10.2024 – 06.06.2025 (valgt på [generalforsamlingen 15.10.2024](../generalforsamlinger/08%20-%202024%20h%C3%B8st/))
 
-| Verv        | Navn                     | Merknad                    |
-| ----------- | ------------------------ | -------------------------- |
-| Leder       | Mathias Monrad Morsund   |                            |
-| Nestleder   | Ember Ruth Diane Seidel  |                            |
-| Styremedlem | Georgy Fomin             |                            |
-| Styremedlem | Johannes Deon Frølich    |                            |
-| Styremedlem | Magnar Jensløkken Korsmo |                            |
-| Styremedlem | Thisan Krishnakumar      |                            |
-| Styremedlem | Souhail Ziani            |                            |
-| Vara        | Karoline Holmøy Nyhammer |                            |
-| Vara        | Kristoffer Drennan Olsen |                            |
-| Vara        | Elise Rongen             |                            |
-| Vara        | Justas Saunorius         |                            |
-| Vara        | Elada Brickute           | Etterfylt f.o.m. mars 2025 |
+| Verv                                     | Navn                     | Merknad                    |
+| ---------------------------------------- | ------------------------ | -------------------------- |
+| Leder                                    | Mathias Monrad Morsund   |                            |
+| Nestleder                                | Ember Ruth Diane Seidel  |                            |
+| Styremedlem / Brettspill                 | Georgy Fomin             |                            |
+| Styremedlem / Intern & Arrangement (1/3) | Johannes Deon Frølich    |                            |
+| Styremedlem / Magic (MTG)                | Magnar Jensløkken Korsmo |                            |
+| Styremedlem / Teknisk (1/2) & SoMe       | Souhail Ziani            |                            |
+| Styremedlem / Økonomi                    | Thisan Krishnakumar      |                            |
+| Vara / Arrangement (2/3)                 | Justas Saunorius         |                            |
+| Vara / Smash                             | Karoline Holmøy Nyhammer |                            |
+| Vara / Teknisk (2/2) & Arrangement (3/3) | Kristoffer Drennan Olsen |                            |
+| Vara                                     | Elise Rongen             |                            |
+| Vara                                     | Elada Brickute           | Etterfylt f.o.m. mars 2025 |
 
 ## Vår 2025
 
 **Periode:** 06.06.2025 – 03.12.2025 (valgt på [generalforsamlingen 06.06.2025](../generalforsamlinger/10%20-%202025%20v%C3%A5r/))
 
-| Verv        | Navn                     | Merknad                     |
-| ----------- | ------------------------ | --------------------------- |
-| Leder       | Georgy Fomin             |                             |
-| Nestleder   | Magnar Jensløkken Korsmo |                             |
-| Styremedlem | Bastian Dukefoss Berbom  |                             |
-| Styremedlem | Thisan Krishnakumar      |                             |
-| Styremedlem | Elise Rongen             |                             |
-| Vara        | Johannes Deon Frølich    |                             |
-| Vara        | Jonathan O'Farrell       |                             |
-| Vara        | Mathias Monrad Morsund   | Etterfylt f.o.m. 16.06.2025 |
-| Vara        | Ember Ruth Diane Seidel  | Etterfylt f.o.m. 16.06.2025 |
-| Vara        | Yuyan Shen               | Etterfylt f.o.m. ??.??.2025 |
+| Verv                     | Navn                     | Merknad                     |
+| ------------------------ | ------------------------ | --------------------------- |
+| Leder                    | Georgy Fomin             |                             |
+| Nestleder                | Magnar Jensløkken Korsmo |                             |
+| Styremedlem / Brettspill | Bastian Dukefoss Berbom  |                             |
+| Styremedlem / Økonomi    | Thisan Krishnakumar      |                             |
+| Styremedlem              | Elise Rongen             |                             |
+| Vara                     | Johannes Deon Frølich    |                             |
+| Vara                     | Jonathan O'Farrell       |                             |
+| Vara                     | Mathias Monrad Morsund   | Etterfylt f.o.m. 16.06.2025 |
+| Vara                     | Ember Ruth Diane Seidel  | Etterfylt f.o.m. 16.06.2025 |
+| Vara                     | Yuyan Shen               | Etterfylt f.o.m. ??.??.2025 |
 
 ## Høst 2025
 
 **Periode:** 03.12.2025 – 19.05.2026 (valgt på [generalforsamlingen 03.12.2025](../generalforsamlinger/11%20-%202025%20h%C3%B8st/))
 
-| Verv        | Navn                           |
-| ----------- | ------------------------------ |
-| Leder       | Georgy Fomin                   |
-| Nestleder   | Magnar Jensløkken Korsmo       |
-| Styremedlem | Bastian Dukefoss Berbom        |
-| Styremedlem | Emma Karoline Kolpus Fontanini |
-| Styremedlem | Selma Jabnouni                 |
-| Styremedlem | Thisan Krishnakumar            |
-| Styremedlem | Elise Rongen                   |
-| Vara        | Sondre Fagerhus                |
-| Vara        | Jonathan O'Farrell             |
-| Vara        | Yuyan Shen                     |
-| Vara        | Daniel Åsbjørnsson             |
+| Verv                       | Navn                           |
+| -------------------------- | ------------------------------ |
+| Leder                      | Georgy Fomin                   |
+| Nestleder                  | Magnar Jensløkken Korsmo       |
+| Styremedlem / Brettspill   | Bastian Dukefoss Berbom        |
+| Styremedlem / Intern & Rom | Selma Jabnouni                 |
+| Styremedlem / SoMe         | Elise Rongen                   |
+| Styremedlem / Teknisk      | Emma Karoline Kolpus Fontanini |
+| Styremedlem / Økonomi      | Thisan Krishnakumar            |
+| Vara / E-sport             | Yuyan Shen                     |
+| Vara / Smash               | Jonathan O'Farrell             |
+| Vara                       | Sondre Fagerhus                |
+| Vara                       | Daniel Åsbjørnsson             |
 
 ## Vår 2026
 
 **Periode:** 19.05.2026 – d.d. (valgt på [generalforsamlingen 19.05.2026](../generalforsamlinger/12%20-%202026%20v%C3%A5r/))
 
-| Verv                  | Navn                           |
-| --------------------- | ------------------------------ |
-| Leder                 | Magnar Jensløkken Korsmo       |
-| Nestleder             | Bastian Dukefoss Berbom        |
-| Styremedlem / Økonomi | Elise Rongen                   |
-| Styremedlem           | Sondre Fagerhus                |
-| Styremedlem           | Mathias Ljådal                 |
-| Styremedlem           | Jonathan O'Farrell             |
-| Styremedlem           | Yuyan Shen                     |
-| Vara                  | Emma Karoline Kolpus Fontanini |
-| Vara                  | Tom Gåsemyr-Mørk               |
-| Vara                  | Selma Jabnouni                 |
-| Vara                  | Duc Anh Stenseth               |
-| Vara                  | Niels Synnes                   |
+| Verv                                           | Navn                           |
+| ---------------------------------------------- | ------------------------------ |
+| Leder                                          | Magnar Jensløkken Korsmo       |
+| Nestleder                                      | Bastian Dukefoss Berbom        |
+| Styremedlem / Brettspill (1/2), SoMe & E-sport | Yuyan Shen                     |
+| Styremedlem / Intern                           | Sondre Fagerhus                |
+| Styremedlem / Smash                            | Jonathan O'Farrell             |
+| Styremedlem / Økonomi                          | Elise Rongen                   |
+| Styremedlem                                    | Mathias Ljådal                 |
+| Vara / Arrangement                             | Duc Anh Stenseth               |
+| Vara / Brettspill (2/2)                        | Tom Gåsemyr-Mørk               |
+| Vara / Teknisk                                 | Emma Karoline Kolpus Fontanini |
+| Vara                                           | Selma Jabnouni                 |
+| Vara                                           | Niels Synnes                   |
 
 ## Personer
 
